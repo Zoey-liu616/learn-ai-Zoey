@@ -27,7 +27,7 @@
 ![Here is Camus'picture](http://images.google.com/hosted/life/7fbd8c209181337d.html)   
 
   ```python
-print("Hello World")
+print("Hello,  World!")
 ```
 
           
